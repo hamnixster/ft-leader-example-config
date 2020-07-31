@@ -1,0 +1,3 @@
+* FT Leader Example
+  Simply execute the ~emacs~ script here to run this example.
+  Check the ~init.el~ and the readme in the ~ft-leader~ repo for more information.
