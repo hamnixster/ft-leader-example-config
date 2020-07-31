@@ -1,3 +1,5 @@
 * FT Leader Example
   Simply execute the ~emacs~ script here to run this example.
   Check the ~init.el~ and the readme in the ~ft-leader~ repo for more information.
+
+  Find a short video explaining the features [[https://www.youtube.com/watch?v=95gcVO0rcUM][here]].
